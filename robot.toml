@@ -1,0 +1,7 @@
+output-dir = "results"
+python-path = ["./"]
+log-level = "INFO"
+
+[variables]
+BROWSER = "chromium"
+HEADLESS = "Yes"
